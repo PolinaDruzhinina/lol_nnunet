@@ -1,4 +1,4 @@
-## ⚡ 💘 🏋️‍♀️ 3DUnet with PyTorch Lightning + Weights & Biases
+## 3DUnet with PyTorch Lightning + Weights & Biases
 In this repository we provide customized implementation of the 3DUnet to make segmentation for task Brain Tumor Segmentation in mpMRI scans using dataset from RSNA-ASNR-MICCAI BraTS 2021 challenge.
 
 ## DATASET
