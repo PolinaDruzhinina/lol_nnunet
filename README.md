@@ -6,11 +6,11 @@ In this repository we evaluat the state-of-the-art methods for the accurate segm
  
 ## Content
 
--nvidia_unet - pipline with optimized Unet from NVIDIA
-     --nvidia_unet/nnunet - models unet,unetr,seg_res_net
-     --nvidia_unet/scripts_training - examples of scripts with experiments
-     --nvidia_unet/notebooks - jupyter notebooks with smth (preprocessing, metrics, inferense
--notebooks - examples of vanilla 3d unet
--vanila_nnunet_torchio - attempt of nn-unet with torchio
+* nvidia_unet - pipline with optimized Unet from NVIDIA
+     * nvidia_unet/nnunet - models unet,unetr,seg_res_net
+     * nvidia_unet/scripts_training - examples of scripts with experiments
+     * nvidia_unet/notebooks - jupyter notebooks with smth (preprocessing, metrics, inferense
+* notebooks - examples of vanilla 3d unet
+* vanila_nnunet_torchio - attempt of nn-unet with torchio
  
 
