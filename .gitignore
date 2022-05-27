@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Docker_inference/
+metrics/
+
 # C extensions
 *.so
 
